@@ -1838,7 +1838,8 @@ section
 }
 .footer_content
 {
-	padding-bottom: 53px;
+	padding-top: 30px;
+	padding-bottom: 30px;
 }
 .footer_logo_text
 {
